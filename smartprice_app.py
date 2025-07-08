@@ -4934,7 +4934,6 @@ if __name__ == "__main__":
         f"""
         <div style='text-align: right; color: #9CA3AF; padding: 10px;'>
         Current User: {st.session_state.get('username', 'Anurag02012004')}<br>
-        Last Updated: 2025-07-08 01:51:42
         </div>
         """,
         unsafe_allow_html=True
